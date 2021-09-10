@@ -97,6 +97,7 @@ h2 {
 .about img {
     margin: 10px;
     border-radius: 10px;
+    width: 25%;
 }
 
 .about p {
